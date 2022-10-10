@@ -1,0 +1,24 @@
+.p-Home.Flex9 {
+display: flex;
+}
+.p-Home.Carousel1 {
+;
+}
+.p-Home.Button14 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+}
